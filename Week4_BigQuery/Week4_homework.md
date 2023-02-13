@@ -5,17 +5,17 @@
 
 ### To extract and load data for every month in 2019 I was using Prefect with this parameters
 
-![parameters.png](/home/dzdoryk/Projects/Zoomcamp/Week4_BigQuery/parameters.png)
+![parameters.png](https://github.com/zdoryk/zoomcamp-de-course/blob/main/Week4_BigQuery/parameters.png)
 
 ### All subflows completed successfully
 
-![rada_view.png](/home/dzdoryk/Projects/Zoomcamp/Week4_BigQuery/radar_view.png)
+![rada_view.png](https://github.com/zdoryk/zoomcamp-de-course/blob/main/Week4_BigQuery/radar_view.png)
 
 ### And all the files were in the gcs
 
 ### Using the command below created a new external table from files in GCS
 
-![create_external_table.png](/home/dzdoryk/Projects/Zoomcamp/Week4_BigQuery/create_external_table.png)
+![create_external_table.png](https://github.com/zdoryk/zoomcamp-de-course/blob/main/Week4_BigQuery/create_external_table.png)
 
 ### After that I could start to answer the actual questions of homework
 
